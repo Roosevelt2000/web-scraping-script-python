@@ -1,0 +1,4 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# This file is placed in the root of the virtual environment to prevent
+# the accidental inclusion of the virtual environment's files in version control
+# and to avoid the need to add the virtual environment's directory to the .gitignore file of the project.
